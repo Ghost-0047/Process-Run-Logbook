@@ -1,0 +1,13 @@
+backend/venv/
+__pycache__/
+*.pyc
+.env
+*.db
+node_modules/
+dist/
+.nuxt/
+
+
+
+# Assessment evidence
+docs/
